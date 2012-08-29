@@ -20,3 +20,5 @@ and run `obama-ama` from the command line! (you may need to use sudo when
 4. Open your web browser to `http://localhost:5000`
 
 That's it!
+
+LICENSE: MIT
