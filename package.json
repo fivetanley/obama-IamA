@@ -1,0 +1,15 @@
+{
+  "name": "obama-iama",
+  "version": "0.0.1",
+  "description": "obama iama scraper and webserver",
+  "main": "index.js",
+  "bin": "bin/obama-iama",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanley Stuart <fivetanley>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.11.0"
+  }
+}
